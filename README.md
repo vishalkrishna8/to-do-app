@@ -20,6 +20,7 @@ This application was built using the following technologies:
 - CSS3
 - JavaScript
 
+
 ## Installation
 
 To run this application locally, please follow these steps:
@@ -36,4 +37,3 @@ To use this application, simply follow these steps:
 3. Click the "Add Task" button to add the task to your list.
 4. To delete a task, click the "Delete" button next to the task you want to remove.
 5. Your tasks will be stored in local storage and will be available even after you close the app.
-
