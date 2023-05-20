@@ -37,5 +37,3 @@ To use this application, simply follow these steps:
 4. To delete a task, click the "Delete" button next to the task you want to remove.
 5. Your tasks will be stored in local storage and will be available even after you close the app.
 
-
-## License
