@@ -4,6 +4,9 @@
 This is a simple To-Do App built using JavaScript that allows you to create and manage tasks.
 
 
+<!-- ## Live demo -->
+
+
 ## Features
 
 - The app allows you to create and delete tasks.
